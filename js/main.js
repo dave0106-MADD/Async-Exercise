@@ -105,3 +105,7 @@ function directGeoCode(ev) {
     })
     .catch((err) => console.log(err));
 }
+
+function sayHello() {
+  console.log("Hello!");
+}
